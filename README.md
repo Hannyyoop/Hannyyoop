@@ -20,7 +20,7 @@ Hello! I'm Hanny, a junior full-stack developer with a passion for building web 
 
 ### Project 2: [Admin Dashboard]
 - **Description:** This project is for the admin dashboard where you can do CRUDs and Export the reports. It's a practice project. I use some references from the original website. I couldn't embed the original link since it's confidential.
-- **Tech Stack:** Laravel, JavaScript, Tailwind, PgSQ
+- **Tech Stack:** Laravel, JavaScript, Tailwind, PgSQL
 - **Repository:** https://github.com/Hannyyoop/kmd_exam.git
 
 ## Learning Journey
