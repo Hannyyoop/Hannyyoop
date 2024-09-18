@@ -19,13 +19,17 @@ Hello! I'm Hanny, a junior full-stack developer with a passion for building web 
 - **Repository:** https://github.com/Hannyyoop/WatchSale.git
 
 ### Project 2: [Admin Dashboard]
-- **Description:** This project is for the admin dashboard where you can do CRUDs and Export the reports. It's a practice project. I use some references from the original website. I couldn't embed the original link since it's confidential.
+- **Description:** This project is for the admin dashboard where you can do CRUDs and Export the reports. It's a practice project. I use some references from the original website. 
 - **Tech Stack:** Laravel, JavaScript, Tailwind, PgSQL
 - **Repository:** https://github.com/Hannyyoop/kmd_exam.git
 
+### Project 3: [Private College Website]
+- **Description:** This project is a private college website and it provides information about diploma programs and courses. I contributed to designing the frontend part and some backend CRUDs. 
+- **Tech Stack:** Laravel, Bootstrap 5, PgSQL
+
 ## Learning Journey
 
-I am continuously learning and improving my skills. Currently, I am focused on mastering Vue.js and integrating it with Laravel to create seamless full-stack applications. 
+I am continuously learning and improving my skills. I am focused on mastering Vue.js and integrating it with Laravel to create seamless full-stack applications. 
 
 ## Get in Touch
 
@@ -35,6 +39,6 @@ Feel free to reach out to me via:
 
 ## Contributions
 
-I am open to collaborating on interesting projects and contributing to open source. If you have any suggestions or projects you'd like to work on together, don't hesitate to contact me.
+I am open to collaborating on interesting projects and contributing to open source. Please contact me if you have any suggestions or projects you'd like to work on together.
 
 Thank you for visiting my profile!
