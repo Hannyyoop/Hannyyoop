@@ -26,6 +26,7 @@ Description:** This project is for the admin dashboard, where you can do CRUDs a
 ### Project 3: [Private College Website]
 - **Description:** This project is a private college website providing information about diploma programs and courses that are dynamically displayed. I contributed to designing the frontend designs, responsive and some backend CRUDs. 
 - **Tech Stack:** Laravel, Bootstrap 5, Javascript, PgSQL
+- - **Repository:** http://kmd.edu.mm/
 
 ## Learning Journey
 
@@ -39,6 +40,6 @@ Feel free to reach out to me via:
 
 ## Contributions
 
-I am open to collaborating on interesting projects and contributing to open source. Please contact me if you have any suggestions or projects you'd like to work on together.
+I am open to collaborating on interesting projects and contributing to open source. Don't hesitate to contact me with any suggestions or projects you'd like to work on together.
 
 Thank you for visiting my profile!
