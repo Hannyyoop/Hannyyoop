@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! I'm Hanny, a junior full-stack developer with a passion for building websites. I specialize in using Laravel for backend development and am currently learning Vue for frontend development.
+Hello! I'm Hanny, a junior full-stack developer passionate about building websites. I specialize in using Laravel for backend development and am currently learning Vue for frontend development.
 
 ## Skills
 
@@ -19,12 +19,12 @@ Hello! I'm Hanny, a junior full-stack developer with a passion for building webs
 - **Repository:** https://github.com/Hannyyoop/WatchSale.git
 
 ### Project 2: [Admin Dashboard]
-Description:** This project is for the admin dashboard, where you can do CRUDs and Export reports. It's a practice project. I used some references from the original website. 
+- **Description:** This project is for the admin dashboard, where you can do CRUDs and Export reports. It's a practice project. I used some references from the original website. 
 - **Tech Stack:** Laravel, JavaScript, Tailwind, PgSQL
 - **Repository:** https://github.com/Hannyyoop/kmd_exam.git
 
-### Project 3: [Private College Website]
-- **Description:** This project is a private college website providing information about diploma programs and courses that are dynamically displayed. I contributed to designing the frontend designs, responsive and some backend CRUDs. 
+### Project 3: [College Website]
+- **Description:** This project is a college website providing information about diploma programs and courses that are dynamically displayed. I contributed to designing the frontend designs, responsiveness, and some backend CRUDs. 
 - **Tech Stack:** Laravel, Bootstrap 5, Javascript, PgSQL
 - - **Repository:** http://kmd.edu.mm/
 
